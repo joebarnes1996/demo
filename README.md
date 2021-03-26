@@ -1,6 +1,6 @@
 # Demo README
 
-This is stil a readme file.
+This will cause conflicts.
 
 
 This is more text.
